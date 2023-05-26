@@ -105,7 +105,7 @@
     <modules>
         <module>cache</module>
         <module>code</module>
-        <module>token</module>
+<!--         <module>token</module> -->
         <module>client</module>
         <module>service</module>
         <module>user</module>
